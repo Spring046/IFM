@@ -27,13 +27,5 @@
     <guid isPermaLink="false">ep002-20251014</guid>
     <itunes:duration>00:03:10</itunes:duration>
     </item>
-    <item>
-    <title>Refelection</title>
-    <pubDate>Tue, 21 Oct 2025 01:46:13 +0000</pubDate>
-    <description>Lea Salonga's song.</description>
-    <enclosure url="https://github.com/Spring046/IFM-audio/commit/c9cecb67dd3c5ee99e23ba0111985950bfddc605" length="18126943" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep___-日期</guid>
-    <itunes:duration>00:03:16</itunes:duration>
-    </item>
   </channel>
 </rss>
